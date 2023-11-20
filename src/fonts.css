@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+  /* .blur:hover {
+    filter: blur(1px);
+  } */
+
+  body{
+    font-family: 'Quicksand', sans-serif;
+    background-image:url("https://www.urbanbarbershop.es/wp-content/uploads/imagen-principal-barberia-granada-centro-urbanbarbershop.jpg");
+    backdrop-filter: blur(6px);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+  }
